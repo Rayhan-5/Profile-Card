@@ -89,3 +89,9 @@ color: white;
    bottom: 60px;
    color: #788994;
 }
+@media only screen and (orientation: landscape) {
+  
+ .foter{
+    overflow: hidden;
+ }
+}
